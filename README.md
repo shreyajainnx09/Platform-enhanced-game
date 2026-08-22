@@ -4,6 +4,7 @@ A 2D platformer built with Pygame, using sprite sheets from Tech With Tim's
 `Python-Platformer` asset pack. This package contains the working game code
 (`tutorial.py`) plus every asset it needs, cloned directly from:
 https://github.com/techwithtim/Python-Platformer
+but more levels are added and the game is improved 
 
 ## Setup
 
